@@ -52,7 +52,7 @@ The following ArcGIS Pro tools were used:
 
 ### 1. Calculate Population Density
 Population density was calculated for each spatial unit using census population data.
-[populationdensity](MyProject_new/populationdensity.jpg)
+![populationdensity](MyProject_new/populationdensity.jpg)
 
 ### 2. Create Park Accessibility Buffers
 A 300-meter buffer was generated around existing parks to represent walking-distance accessibility.
