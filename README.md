@@ -122,7 +122,7 @@ A suburb-level summary revealed proposed park locations distributed across 17 di
 
 ## Project Report
 
-📄 [Project Report](Project%20report.pdf)
+📄 [Project Report](Project_report.pdf)
 
 ---
 
