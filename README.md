@@ -56,27 +56,27 @@ Population density was calculated for each spatial unit using census population 
 
 ### 2. Create Park Accessibility Buffers
 A 300-meter buffer was generated around existing parks to represent walking-distance accessibility.
-(MyProject_new/buffer.jpg)
+![buffer](MyProject_new/buffer.jpg)
 
 ### 3. Identify Underserved Areas
 Areas outside the park service buffers were extracted using the Erase tool.
-(MyProject_new/underserved.jpg)
+![underservedy](MyProject_new/underserved.jpg)
 
 ### 4. Select High-Density Areas
 Population zones above the median density threshold were identified.
-(MyProject_new/HighPopulationdensity.jpg)
+![HighPopulationdensity](MyProject_new/HighPopulationdensity.jpg)
 
 ### 5. Overlay Analysis
 High-density areas were intersected with underserved areas to locate priority zones.
-(MyProject_new/OptimalPark.jpg)
+![OptimalPark](MyProject_new/OptimalPark.jpg)
 
 ### 6. Remove Developed Land
 Building footprints were erased from candidate locations to identify open land suitable for park development.
-(MyProject_new/Building.jpg)
+![Building](MyProject_new/Building.jpg)
 
 ### 7. Generate Final Park Suitability Map
 Remaining areas were classified as optimal locations for new public parks.
-(MyProject_new/finaloutput.jpg)
+![finaloutput](MyProject_new/finaloutput.jpg)
 
 ---
 
